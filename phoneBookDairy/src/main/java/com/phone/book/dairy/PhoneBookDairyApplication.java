@@ -8,6 +8,11 @@ public class PhoneBookDairyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PhoneBookDairyApplication.class, args);
+		System.out.println("Hello Kundan!");
+		System.out.println("Hello Babe!");
 	}
+
+
+
 
 }
