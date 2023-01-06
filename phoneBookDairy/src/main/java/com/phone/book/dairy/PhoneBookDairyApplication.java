@@ -10,6 +10,8 @@ public class PhoneBookDairyApplication {
 		SpringApplication.run(PhoneBookDairyApplication.class, args);
 		System.out.println("Hello Kundan!");
 		System.out.println("Hello Babe!");
+		System.out.println("Hello Kundan How are You!");
+		
 	}
 
 
