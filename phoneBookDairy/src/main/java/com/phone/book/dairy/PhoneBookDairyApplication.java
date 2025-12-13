@@ -11,6 +11,7 @@ public class PhoneBookDairyApplication {
 		System.out.println("Hello Kundan!");
 		System.out.println("Hello Babe!");
 		System.out.println("Hello Kundan How are You!");
+		sysout
 		
 	}
 
